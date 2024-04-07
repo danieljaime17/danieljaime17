@@ -1,5 +1,23 @@
 <h2 align="center"> Hi there 👋 My name is Fernando</h2>
-<p align="center">I am a Machine Learning and Deep Learning Engineer, working and experimenting with NLP models for text classification and analysis. Humor documents are a funny area for experiments, I am working on it! I am a Blockchain Developer and Quantum computing Enthusiast. I am working and researching on some projects using Solidity for Ethereum and Hyperledger for blockchain Dapps, and Qiskit for Quantum algorithms development.
+<p align="center">Welcome to my GitHub repository!
+
+🚗🤖 Automotive AI and Machine Learning Showcase 🤖🚗
+
+Explore my Automotive AI and Machine Learning Showcase, where I showcase cutting-edge applications of artificial intelligence (AI) and machine learning (ML) technologies in the automotive industry. From autonomous driving systems to predictive maintenance solutions, I'm dedicated to advancing the future of transportation through innovative AI and ML applications.
+
+🔍 What I Do:
+
+I develop and implement AI algorithms for advanced driver assistance systems (ADAS), including object detection, classification, and trajectory prediction.
+I explore reinforcement learning techniques to optimize vehicle control and navigation in dynamic environments.
+I create predictive maintenance models using ML to anticipate and prevent mechanical failures in vehicles, reducing downtime and improving reliability.
+I collaborate with automotive manufacturers and research institutions to address industry challenges and drive innovation in AI-driven automotive technologies.
+🌟 Why Explore My Showcase:
+
+Gain insights into state-of-the-art AI and ML technologies applied in the automotive domain.
+Discover cutting-edge projects that are shaping the future of transportation and redefining the automotive industry.
+Access curated examples showcasing the practical applications of AI and ML in automotive engineering.
+Stay informed about the latest advancements and research in automotive AI and ML.
+Let's drive innovation together! 🚀
 </p>
 
 <br/>  
