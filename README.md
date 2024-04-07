@@ -53,13 +53,17 @@ Explore my Automotive AI and Machine Learning Showcase, where I showcase cutting
 - Discover cutting-edge projects that are shaping the future of transportation and redefining the automotive industry.
 - Access curated examples showcasing the practical applications of AI and ML in automotive engineering.
 - Stay informed about the latest advancements and research in automotive AI and ML.
-  
+
+## 📫 How to reach me: ...
+I am not good with social media! But if you want to know something about my professional track please check my LinkedIn account. https://www.linkedin.com/in/f-daniel-jaime-alonso/
+
 Let's drive innovation together! 🚀
 
 <h2 align="center"> Fun fact: While more you learn, less you know.</h2>
 
 <p></p>
 <p></p>
+
 
 
 ## Languages and Tools  
