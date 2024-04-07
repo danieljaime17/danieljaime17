@@ -39,7 +39,7 @@ Let's drive innovation together! 🚀
 
 ## 🚗🤖 Automotive AI and Machine Learning Showcase 🤖🚗
 
-- Explore my Automotive AI and Machine Learning Showcase, where I showcase cutting-edge applications of artificial intelligence (AI) and machine learning (ML) technologies in the automotive industry. From autonomous driving systems to predictive maintenance solutions, I'm dedicated to advancing the future of transportation through innovative AI and ML applications.
+Explore my Automotive AI and Machine Learning Showcase, where I showcase cutting-edge applications of artificial intelligence (AI) and machine learning (ML) technologies in the automotive industry. From autonomous driving systems to predictive maintenance solutions, I'm dedicated to advancing the future of transportation through innovative AI and ML applications.
 
 ## 🔍 What I Do:
 
