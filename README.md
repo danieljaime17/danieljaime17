@@ -11,6 +11,7 @@ I develop and implement AI algorithms for advanced driver assistance systems (AD
 I explore reinforcement learning techniques to optimize vehicle control and navigation in dynamic environments.
 I create predictive maintenance models using ML to anticipate and prevent mechanical failures in vehicles, reducing downtime and improving reliability.
 I collaborate with automotive manufacturers and research institutions to address industry challenges and drive innovation in AI-driven automotive technologies.
+I develop anomaly detection algorithms for control devices in vehicles. These algorithms utilize regression and classification models to assess the performance of vehicle parts
 
 🌟 Why Explore My Showcase:
 
