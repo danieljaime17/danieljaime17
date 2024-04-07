@@ -11,6 +11,7 @@ I develop and implement AI algorithms for advanced driver assistance systems (AD
 I explore reinforcement learning techniques to optimize vehicle control and navigation in dynamic environments.
 I create predictive maintenance models using ML to anticipate and prevent mechanical failures in vehicles, reducing downtime and improving reliability.
 I collaborate with automotive manufacturers and research institutions to address industry challenges and drive innovation in AI-driven automotive technologies.
+
 🌟 Why Explore My Showcase:
 
 Gain insights into state-of-the-art AI and ML technologies applied in the automotive domain.
@@ -31,6 +32,10 @@ Let's drive innovation together! 🚀
 
 <br/>  
 
+<p>
+        🚧 <em>This description is a work in progress. More content coming soon!</em> 🚧
+</p>
+
 ## Languages and Tools  
 
 #### Languages 
@@ -40,6 +45,16 @@ Let's drive innovation together! 🚀
 ![Solidity](https://img.shields.io/badge/-solidity-363636?style=for-the-badge&logo=solidity)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=black")
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+
+
+#### Machine Learning and Deep Learning
+
+![Airflow](https://img.shields.io/badge/-MLflow-007A88?style=for-the-badge&logo=MLflow-airflow&logoColor=white)
+![Spark](https://img.shields.io/badge/-keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/-tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+
 
 #### Development Frameworks
 
@@ -72,14 +87,6 @@ Let's drive innovation together! 🚀
 ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-
-#### Machine Learning and Deep Learning
-
-![Airflow](https://img.shields.io/badge/-MLflow-007A88?style=for-the-badge&logo=MLflow-airflow&logoColor=white)
-![Spark](https://img.shields.io/badge/-keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/-tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 #### Cloud Platforms
 
