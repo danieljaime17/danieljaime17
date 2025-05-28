@@ -1,9 +1,6 @@
 <h2 align="center"> Hi there 👋 My name is Fernando</h2>
 <p align="center">Welcome to my GitHub repository!
 
-🚗🤖 Automotive AI and Machine Learning Showcase 🤖🚗
-
-Explore my Automotive AI and Machine Learning Showcase, where I showcase cutting-edge applications of artificial intelligence (AI) and machine learning (ML) technologies in the automotive industry. From autonomous driving systems to predictive maintenance solutions, I'm dedicated to advancing the future of transportation through innovative AI and ML applications.
 
 ## 🚗 Automotive AI & Machine Learning Showcase
 
