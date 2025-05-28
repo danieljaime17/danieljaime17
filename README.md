@@ -39,20 +39,7 @@ Let's drive innovation together! 🚀
 
 ## 🚗🤖 Automotive AI and Machine Learning Showcase 🤖🚗
 
-Explore my Automotive AI and Machine Learning Showcase, where I showcase cutting-edge applications of artificial intelligence (AI) and machine learning (ML) technologies in the automotive industry. From autonomous driving systems to predictive maintenance solutions, I'm dedicated to advancing the future of transportation through innovative AI and ML applications.
-
-## 🔍 What I Do:
-
-- I develop and implement AI algorithms for advanced driver assistance systems (ADAS), including object detection, classification, and trajectory prediction.
-- I explore reinforcement learning techniques to optimize vehicle control and navigation in dynamic environments.
-- I create predictive maintenance models using ML to anticipate and prevent mechanical failures in vehicles, reducing downtime and improving reliability.
-- I collaborate with automotive manufacturers and research institutions to address industry challenges and drive innovation in AI-driven automotive technologies.
-## 🌟 Why Explore My Showcase:
-
-- Gain insights into state-of-the-art AI and ML technologies applied in the automotive domain.
-- Discover cutting-edge projects that are shaping the future of transportation and redefining the automotive industry.
-- Access curated examples showcasing the practical applications of AI and ML in automotive engineering.
-- Stay informed about the latest advancements and research in automotive AI and ML.
+Explore my Automotive AI and Machine Learning Showcase, where I present cutting-edge applications of AI and ML in the automotive industry, from autonomous driving and ADAS (object detection, classification, trajectory prediction) to predictive maintenance that reduces vehicle downtime. I also explore reinforcement learning for optimized vehicle control in dynamic environments and collaborate with manufacturers and research institutions to solve industry challenges. This showcase offers insights into state-of-the-art technologies, practical project examples, and the latest advancements shaping the future of transportation.
 
 ## 📫 How to reach me: ...
 I am not good with social media! But if you want to know something about my professional track please check my LinkedIn account. https://www.linkedin.com/in/f-daniel-jaime-alonso/
